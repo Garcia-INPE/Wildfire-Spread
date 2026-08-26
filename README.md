@@ -2,7 +2,6 @@
 
 ![Timeline of fire-spread modeling milestones, from Rothermel (1972) to the 40 Scott & Burgan (2005) fuel models](images/Readme-github.png)
 
-### Spanning the field from Rothermel's 1972 to AI and PIML.
 ### Given an active ignition, how and where does it go next. 
 ### This repo is to store research artifacts on wildfire **spread** such as: notebooks, physics engines, CLI tools and reference material
 
